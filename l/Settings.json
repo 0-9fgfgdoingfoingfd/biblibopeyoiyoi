@@ -1,0 +1,11 @@
+{
+	"title"											: "Fortnite",
+	"executable"									: "FortniteClient-Win64-Shipping.exe",
+	"productid"										: "prod-fn",
+	"sandboxid"										: "fn",
+	"deploymentid"									: "62a9473a2dca46b29ccf17577fcf42d7",
+	"requested_splash"								: "EasyAntiCheat/SplashScreen.png",
+	"wait_for_game_process_exit"					: "true",
+	"hide_bootstrapper"								: "false",
+	"hide_gui"										: "false"
+}
